@@ -15,7 +15,7 @@ The Dakota project delivers both state-of-the-art research and robust, usable so
 
 These capabilities may be used on their own or as components within advanced strategies such as hybrid optimization, surrogate-based optimization, mixed integer nonlinear programming, or optimization under uncertainty.
 
-[Code of Conduct](../CODE_OF_CONDUCT.md) for the SNL Dakota Community
+[Code of Conduct](https://github.com/snl-dakota/.github/blob/main/CODE_OF_CONDUCT.md) for the SNL Dakota Community
 
 ## Resources
 
@@ -27,7 +27,7 @@ Get Help: [Dakota Discussion Forum](https://github.com/orgs/snl-dakota/discussio
 
 Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/user-html/developingdakota/developingdakota.html), [Code Documentation](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/html-dev/)
 
-[Contribute](../CONTRIBUTING.md) user help, examples, code.
+[Contribute](https://github.com/snl-dakota/.github/blob/main/CONTRIBUTING.md) user help, examples, code.
 
 ## Repositories
 
@@ -37,7 +37,7 @@ Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/fi
 
 *(The authoritative upstream Dakota repositories are hosted at Sandia National Laboratories and routinely mirrored to GitHub.)*
 
-[Contributing to Dakota](../CONTRIBUTING.md)
+[Contributing to Dakota](https://github.com/snl-dakota/.github/blob/main/CONTRIBUTING.md)
 
 <!--
 
