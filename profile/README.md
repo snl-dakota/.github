@@ -15,21 +15,29 @@ The Dakota project delivers both state-of-the-art research and robust, usable so
 
 These capabilities may be used on their own or as components within advanced strategies such as hybrid optimization, surrogate-based optimization, mixed integer nonlinear programming, or optimization under uncertainty.
 
+[Code of Conduct](../CODE_OF_CONDUCT.md) for the SNL Dakota Community
+
 ## Resources
 
 Learn More: [Dakota Website](https://dakota.sandia.gov)
 
 Start Using: [User Guide](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/user-html/)
 
+Get Help: [Dakota Discussion Forum](https://github.com/orgs/snl-dakota/discussions)
+
 Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/user-html/developingdakota/developingdakota.html), [Code Documentation](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/html-dev/)
 
-Get help: [Dakota Discussion Forum](https://github.com/orgs/snl-dakota/discussions)
+[Contribute](../CONTRIBUTING.md) user help, examples, code.
 
 ## Repositories
 
-[Core dakota](https://github.com/snl-dakota/dakota): Main Dakota repository, has additional submodules, some of which may need to be turned off with `git submodule deinit` for those without access.
+[Dakota](https://github.com/snl-dakota/dakota): Main Dakota repository, uses git submodules, some of which may need to be turned off with `git submodule deinit` for those without access.
 
 [Examples Library](https://github.com/snl-dakota/dakota): Runnable examples with input files, simulation interfaces, training examples, and case studies.
+
+*(The authoritative upstream Dakota repositories are hosted at Sandia National Laboratories and routinely mirrored to GitHub.)*
+
+[Contributing to Dakota](../CONTRIBUTING.md)
 
 <!--
 
