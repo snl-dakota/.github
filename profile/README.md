@@ -33,7 +33,7 @@ Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/fi
 
 [Dakota](https://github.com/snl-dakota/dakota): Main Dakota repository, uses git submodules, some of which may need to be turned off with `git submodule deinit` for those without access.
 
-[Examples Library](https://github.com/snl-dakota/dakota): Runnable examples with input files, simulation interfaces, training examples, and case studies.
+[Examples Library](https://github.com/snl-dakota/dakota-examples): Runnable examples with input files, simulation interfaces, training examples, and case studies.
 
 *(The authoritative upstream Dakota repositories are hosted at Sandia National Laboratories and routinely mirrored to GitHub.)*
 
