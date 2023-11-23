@@ -21,13 +21,13 @@ These capabilities may be used on their own or as components within advanced str
 
 Learn More: [Dakota Website](https://dakota.sandia.gov)
 
-Start Using: [User Guide](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/user-html/)
+Start Using: [User Guide](https://snl-dakota.github.io/docs/latest_release/users/)
 
 Get Help: [Dakota Discussion Forum](https://github.com/orgs/snl-dakota/discussions)
 
-Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/user-html/developingdakota/developingdakota.html), [Code Documentation](https://dakota.sandia.gov/sites/default/files/docs/6.17.0-release/html-dev/)
+Start Developing: [Developing Dakota](https://snl-dakota.github.io/docs/latest_release/users/developingdakota/developingdakota.html), [Code Documentation](https://snl-dakota.github.io/docs/latest_release/developers/)
 
-[Contribute](https://github.com/snl-dakota/.github/blob/main/CONTRIBUTING.md) user help, examples, code.
+[Contribute](https://dakota.sandia.gov/community-contributions/) user help, examples, code.
 
 ## Repositories
 
@@ -37,7 +37,6 @@ Start Developing: [Developing Dakota](https://dakota.sandia.gov/sites/default/fi
 
 *(The authoritative upstream Dakota repositories are hosted at Sandia National Laboratories and routinely mirrored to GitHub.)*
 
-[Contributing to Dakota](https://github.com/snl-dakota/.github/blob/main/CONTRIBUTING.md)
 
 <!--
 
